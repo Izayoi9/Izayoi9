@@ -13,7 +13,7 @@
 ## 🧩 Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,js,docker,selenium,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,js,docker,selenium,mysql,fastapi,electron" />
 </p>
 
 
@@ -22,7 +22,11 @@
 
 你好，我是Izayoi9，一位普普通通的个人开发者。
 
-我是一位全栈开发者，目前主要使用Python进行后端开发。
+我掌握了多种开发语言，可以担任前端设计、后端开发、客户端开发，主要使用Python进行开发。
+
+相信约翰·杜威的实用主义教育，喜欢在探索的过程中学习，在有想法的时候立刻去做，绝对的实践派。
+
+目前正在寻求工作机会，如果您是HR或企业高管，欢迎您通过下面的邮箱联系我。
 
 联系我：izayoi9@qq.com 或者使用 github 邮箱
 
