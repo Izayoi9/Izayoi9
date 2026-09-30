@@ -32,12 +32,9 @@
 
 联系我：izayoi9@qq.com 或者使用 github issues。
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-olive-ten-67.vercel.app/api?username=Izayoi9&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats-olive-ten-67.vercel.app/api/top-langs/?username=Izayoi9&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+<br>
+<br>
+<br>
 
 <details>
 <summary></summary>
